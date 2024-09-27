@@ -6,7 +6,7 @@ const Logo = () => {
     <>
       <Link
         href={"/"}
-        className="no-underline text-blue-500 text-3xl font-semibold"
+        className="no-underline text-blue-500 md:text-2xl text-xl font-semibold"
       >
         Lexio Labs
       </Link>
